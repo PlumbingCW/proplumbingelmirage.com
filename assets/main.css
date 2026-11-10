@@ -354,3 +354,6 @@ footer .footer-tel{font-weight:800;color:var(--rose);font-size:18px}
 .sticky-cta{text-decoration:none}
 .sources p{font-size:15px;color:var(--gray)}
 .sources h2{font-size:1.4rem}
+.srclist{margin:12px 0 0 20px;padding:0;font-size:14.5px;color:var(--gray)}
+.srclist li{margin:6px 0;overflow-wrap:anywhere}
+.srclist a{text-decoration:underline}
